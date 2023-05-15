@@ -1,4 +1,10 @@
-# Bem Vindo ao meu Portfolio, meu nome é Nicolas Schneider 🙃
-### Busco aprender mais e mais sobre desenvolvimento de sistemas, quero no futuro poder trabalhar com alguns games. 
+# 💫 Sobre Mim:
+ 👾- Prazer me chamo Nicolas, tenho 16 anos, sou natural de Santa Catarina e moro em Santa Catarina desde que nasci, ultimamente estou buscando aprender mais sobre desenvolvimento de sistemas e desenvolvimento de games.
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGarsia&langs_count=8)](https://github.com/NicolasGarsia/github-readme-stats)
+
+## 🌐 Social:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
+# 💻 Linguagens e Plataformas:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white)
+
