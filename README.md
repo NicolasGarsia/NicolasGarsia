@@ -1,16 +1,15 @@
+# Redes:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqQwjzSZnvgwfdmHNRNdrfqbplvRllPlzqBDWfLSBzxfNjbJXKXTKdbrpKSTFZVdFvlV)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
+
 # Objetivos e Formações:
 
 #### Área de interesse: Obter experiência na área de TI e aprender programação básica em games.
 #### 2023 ( Cursando ) : 2°ano do Ensino Médio Técnico ( Escola S/ SENAI )
 #### 2024 (Previsão de término)
 
-##
-
-# Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqQwjzSZnvgwfdmHNRNdrfqbplvRllPlzqBDWfLSBzxfNjbJXKXTKdbrpKSTFZVdFvlV)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
 
 #  Linguagens e Plataformas:
 
