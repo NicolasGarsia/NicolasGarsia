@@ -7,7 +7,7 @@
 ##
 
 ## Redes:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxMLdXDrGGKRqHGSvVqBBzWsxTCnjwgnqkZlmTzHsNmQqsMfvhWXDjkXJxWXFsjnCKQbg)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E60023.style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxMLdXDrGGKRqHGSvVqBBzWsxTCnjwgnqkZlmTzHsNmQqsMfvhWXDjkXJxWXFsjnCKQbg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
 
 #  Linguagens e Plataformas:
