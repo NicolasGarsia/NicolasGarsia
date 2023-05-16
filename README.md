@@ -8,12 +8,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
 # Redes:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
-[![Gmail](https://img.shileds.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](gmailto:higor_e_silva@gmail.com)
-
-
-
+<a href mailto:”higor_e_silva@gmail.com”><img src=”https://img.shileds.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white” target=”_blank”></a>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
 
 # Objetivos e Formações:
