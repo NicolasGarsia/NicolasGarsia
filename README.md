@@ -10,7 +10,7 @@
 # Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
-[![Gmail](https://img.shileds.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:higor_e_silva@gmail.com)
+[![Gmail](https://img.shileds.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](gmailto:higor_e_silva@gmail.com)
 
 
 
