@@ -6,7 +6,7 @@
 
 ##
 
-## Redes:
+# Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
 [![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqQwjzSZnvgwfdmHNRNdrfqbplvRllPlzqBDWfLSBzxfNjbJXKXTKdbrpKSTFZVdFvlV)
