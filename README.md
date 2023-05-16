@@ -10,7 +10,10 @@
 # Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E60024.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvlqQwjzSZnvgwfdmHNRNdrfqbplvRllPlzqBDWfLSBzxfNjbJXKXTKdbrpKSTFZVdFvlV)
+[![Gmail](https://img.shileds.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:higor_e_silva@gmail.com)
+
+
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
 
 # Objetivos e Formações:
