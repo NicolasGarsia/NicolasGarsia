@@ -7,7 +7,7 @@
 ##
 
 ## 🌐 Socials:
- [![Gmail]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](https://gmail.com/nicolaslapolli@gmail.com) 
+ [![Gmail]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))]([https://gmail.com/nicolaslapolli@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garsaeu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/garsaeu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/garcia_nickxz) 
 
 #  Linguagens e Plataformas:
