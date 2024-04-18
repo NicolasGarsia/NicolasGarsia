@@ -15,9 +15,8 @@
 
 # Objetivos e Formações:
 
-#### Área de interesse: Obter experiência na área de TI e aprender programação básica em games.
-#### 2023 ( Cursando ) : 2°ano do Ensino Médio Técnico ( Escola S/ SENAI )
-#### 2024 (Previsão de término)
+#### Área de interesse: Obter experiência na área de TI
+#### 2024 ( Cursando ) : 3°ano do Ensino Médio Técnico ( Escola S/ SENAI )
 
 ##
 
