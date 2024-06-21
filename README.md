@@ -15,7 +15,7 @@
 
 # Objetivos e Formações:
 
-#### Área de interesse: Obter experiência na área de TI
+
 #### 2024 ( Cursando ) : 3°ano do Ensino Médio Técnico ( Escola S/ SENAI )
 
 ##
